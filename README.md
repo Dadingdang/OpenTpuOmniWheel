@@ -36,7 +36,11 @@ QQ群：704988252
 
 ## 全向轮步兵设计参考
 
-[[机械设计]RM2022-南京理工大学-Alliance-机械结构开源-步兵机器人](https://bbs.robomaster.com/forum.php?mod=forumdisplay&fid=63&filter=typeid&typeid=11) 
+[[机械设计]RM2022-南京理工大学-Alliance-机械结构开源-步兵机器人](https://bbs.robomaster.com/article/9132?source=4) 
+
+百度网盘链接
+链接：https://pan.baidu.com/s/1Xav2jlvn4blMRgvaJnLR-w?pwd=22bb
+提取码：22bb
 
 ## 购买
 
