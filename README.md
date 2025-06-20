@@ -1,5 +1,9 @@
 # OpenTpuOmniWheel
 
+## For International Designers
+
+[DingLAB Wheel Design Reference](https://docs.google.com/document/d/1eorTJ0qsqnQNdd7PccdUTPAnkAKJJ8HzlDGZy69UnsU/edit?usp=sharing)
+
 ## 为什么做这个？
 
 在RoboMaster比赛中，全向轮作为一种实用的底盘结构，广受欢迎。
